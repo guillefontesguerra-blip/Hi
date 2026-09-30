@@ -21,8 +21,8 @@ local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 local Mouse = LocalPlayer:GetMouse()
 
 local Assets = {
-    Repentance = LoadCustomInstance(ROOT.."/Assets/Repentance.rbxm"),
-    Crucifix = LoadCustomInstance(ROOT.."/Assets/Crucifix.rbxm")
+    Repentance = LoadCustomInstance(ROOT.."/Repentance.rbxm"),
+    Crucifix = LoadCustomInstance(ROOT.."/Crucifix.rbxm")
 }
 local Module = {
     Connections = {},
