@@ -13,7 +13,7 @@ local UserInputService = game:GetService("UserInputService")
 
 -- \\ Variables // --
 
-local ROOT = "https://github.com/guillefontesguerra-blip/Hi/tree/main"
+local ROOT = "https://github.com/guillefontesguerra-blip/Hi/raw/main"
 
 local LocalPlayer = Players.LocalPlayer
 local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
